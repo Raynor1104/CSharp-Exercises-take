@@ -1,0 +1,15 @@
+E:\Programing\C# Excersises(branch)\bin\Debug\net6.0\C# Excersises(branch).exe
+E:\Programing\C# Excersises(branch)\bin\Debug\net6.0\C# Excersises(branch).deps.json
+E:\Programing\C# Excersises(branch)\bin\Debug\net6.0\C# Excersises(branch).runtimeconfig.json
+E:\Programing\C# Excersises(branch)\bin\Debug\net6.0\C# Excersises(branch).dll
+E:\Programing\C# Excersises(branch)\bin\Debug\net6.0\ref\C# Excersises(branch).dll
+E:\Programing\C# Excersises(branch)\bin\Debug\net6.0\C# Excersises(branch).pdb
+E:\Programing\C# Excersises(branch)\obj\Debug\net6.0\C# Excersises(branch).csproj.AssemblyReference.cache
+E:\Programing\C# Excersises(branch)\obj\Debug\net6.0\C# Excersises(branch).GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\C# Excersises(branch)\obj\Debug\net6.0\C# Excersises(branch).AssemblyInfoInputs.cache
+E:\Programing\C# Excersises(branch)\obj\Debug\net6.0\C# Excersises(branch).AssemblyInfo.cs
+E:\Programing\C# Excersises(branch)\obj\Debug\net6.0\C# Excersises(branch).csproj.CoreCompileInputs.cache
+E:\Programing\C# Excersises(branch)\obj\Debug\net6.0\C# Excersises(branch).dll
+E:\Programing\C# Excersises(branch)\obj\Debug\net6.0\ref\C# Excersises(branch).dll
+E:\Programing\C# Excersises(branch)\obj\Debug\net6.0\C# Excersises(branch).pdb
+E:\Programing\C# Excersises(branch)\obj\Debug\net6.0\C# Excersises(branch).genruntimeconfig.cache
